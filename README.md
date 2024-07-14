@@ -10,14 +10,14 @@ Output Options
 
 
 
-### Installing
+### Installation
 
 ```
-~ ❯❯❯ git clone https://github.com/yourusername/Sub_Do.git
+~ ❯ git clone https://github.com/yourusername/Sub_Do.git
 
-~ ❯❯❯ cd Sub_Do
+~ ❯ cd Sub_Do
 
-~/Sub_Do ❯❯❯ python3 Sub_Do.py
+~/Sub_Do ❯ python3 Sub_Do.py
 
 ```
 
