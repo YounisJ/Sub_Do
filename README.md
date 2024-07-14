@@ -28,12 +28,10 @@ Output Options
 
 ```
 
-Requirements
-pip install requests
-
-
-Contributing
+## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
 
-License
+Pull requests are always welcomed.
+
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
