@@ -31,7 +31,4 @@ Output Options
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
 
-Pull requests are always welcomed.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+Pull requests are always welcomed. 🤝
