@@ -13,7 +13,7 @@ Output Options
 ### Installation
 
 ```
-~ ❯ git clone https://github.com/yourusername/Sub_Do.git
+~ ❯ git clone https://github.com/YounsJ/Sub_Do.git
 
 ~ ❯ cd Sub_Do
 
