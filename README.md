@@ -21,16 +21,12 @@ Output Options
 
 ```
 
+### Requierements
 
-Installation
+```
+~ ❯ pip install requests
 
-Clone the repository:
-
-
-git clone https://github.com/yourusername/Sub_Do.git
-cd Sub_Do
-python3 Sub_Do.py
-
+```
 
 Requirements
 pip install requests
