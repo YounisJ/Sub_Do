@@ -16,6 +16,7 @@ def find_subdomain(domain_name, sub_domnames):
     print("Scanning : ", domain_name)
     print("\n")
 
+ 
     for sub_domain in sub_domnames:
         url = f"http://{sub_domain}.{domain_name}"
         try:
