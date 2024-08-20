@@ -12,7 +12,7 @@ print("                          \n",
  " Y88888P'    `'YbbdP'Y8  8Y'Ybbd8''              88888888Y''     `'YbbdP''   \n",
 "                                                                            \n")
 def find_subdomain(domain_name, sub_domnames):
-    print("Sub_finder is working...")
+    print("Sub_finder is working....")
     print("Scanning : ", domain_name)
     print("\n")
 
