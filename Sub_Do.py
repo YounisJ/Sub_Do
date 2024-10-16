@@ -24,11 +24,11 @@ def find_subdomain(domain_name, sub_domnames):
         except requests.ConnectionError:
             pass
         else:
-            print("[+] Discovered subdomain: ", url)
+            print(" [+] Discovered subdomain : ", url)
             
 if __name__ == "__main__":
     print("\n")
-    domain = input("Enter the domain name: ")
+    domain = input("Enter the domain name : ")
     print("\n")
     print("\n")
     with open("sub_list.txt") as file:
